@@ -1,3 +1,30 @@
+
+
+
+
+## Book Borrowing System
+
+In this system, users can log in to the dashboard as regular users. The system allows them to browse the library's books, send borrowing requests, and return books. Once a borrowing request is accepted by the admin, users can borrow and then return books.
+
+For the admin, upon logging into the dashboard, they will be able to view borrowing and return requests. They can accept or reject requests based on the availability of the book and the return deadline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
