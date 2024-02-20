@@ -1,7 +1,5 @@
 
 
-
-
 ## Book Borrowing System
 
 In this system, users can log in to the dashboard as regular users. The system allows them to browse the library's books, send borrowing requests, and return books. Once a borrowing request is accepted by the admin, users can borrow and then return books.
@@ -11,6 +9,15 @@ For the admin, upon logging into the dashboard, they will be able to view borrow
 
 
 
+## Requirements
+
+- PHP 8.1+
+- Composer
+- Node.js
+- Laravel v10.0+
+- Livewire v3
+- Tailwind CSS
+- Filament v3
 
 
 
